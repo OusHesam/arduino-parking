@@ -301,7 +301,7 @@ You may need to adjust them depending on your mechanism.
 ### Exit Gate Duration
 
 ```cpp
-const unsigned long EXIT_OPEN_TIME = 5000;
+const unsigned long EXIT_OPEN_TIME = 3000;
 ```
 
 The value is measured in milliseconds.
