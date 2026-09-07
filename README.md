@@ -637,6 +637,19 @@ The project is intentionally simple enough to understand, modify, and extend.
 
 ---
 
+## Circuit
+
+### Breadboard
+
+![Breadboard](hardware/breadboard.png)
+
+### Schematic
+
+![Schematic](hardware/schematic.png)
+
+> The original Fritzing project is available at:
+> `hardware/arduino-parking.fzz`
+
 # 🤝 Contributing
 
 Contributions, improvements, bug fixes, and new ideas are welcome.
